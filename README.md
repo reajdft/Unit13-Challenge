@@ -2,7 +2,8 @@
 # Cryptocurrency Market Analysis via PCA & K Means Clustering
 ## Project Summary & Notes:
 * Data Source - CryptoCompare using this endpoint: https://min-api.cryptocompare.com/data/all/coinlist
-* Provide summary overview of currently tradeable cryptocurrencies, grouped by K Means to understand shared traits across over the 500 cryptos currently traded
+## Purpose:
+To provide a summary overview of currently tradeable cryptocurrencies, grouped by K Means to understand shared traits across over the 500 cryptos currently traded
 * Notebook contents: 
 * 1. Pre-processing/cleaning/standardizing
 * 2. PCA development
